@@ -1,0 +1,46 @@
+[
+  {
+    "icon": "format-list-bulleted",
+    "text": "Project Details"
+  },
+  {
+    "icon": "map-marker-outline",
+    "text": "Location"
+  },
+  {
+    "icon": "text-box-multiple-outline",
+    "text": "Documents"
+  },
+  {
+    "icon": "image-multiple-outline",
+    "text": "Photots"
+  },
+  {
+    "icon": "scale-balance",
+    "text": "Legal Documents"
+  },
+  {
+    "icon": "play-box-outline",
+    "text": "Videos"
+  },
+  {
+    "icon": "chat-outline",
+    "text": "Latitude"
+  },
+  {
+    "icon": "text-box-outline",
+    "text": "Property Tax"
+  },
+  {
+    "icon": "receipt",
+    "text": "Electricity Bills"
+  },
+  {
+    "icon": "text-box-check-outline",
+    "text": "Approvals"
+  },
+  {
+    "icon": "file-document-outline",
+    "text": "EC"
+  }
+]
